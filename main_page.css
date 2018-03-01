@@ -1,3 +1,7 @@
+body {
+  background-image: url("background.JPG");
+  background-size: 50%;
+}
 
 .option_button {
    border: 1px outset blue;
