@@ -1,16 +1,10 @@
-body {
-  background-image: url("background.JPG");
-  background-size: 100%;
-}
 .option_button {
    border: 1px outset blue;
-   background-color: lightBlue;
    height:110px;
    width:110px;
    cursor:pointer;
 }
 
 .option_button:hover {
-   background-color: blue;
    color:white;
 }
