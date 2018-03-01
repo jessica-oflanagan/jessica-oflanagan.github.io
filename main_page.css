@@ -1,4 +1,4 @@
-.button {
+.option_button {
    border: 1px outset blue;
    background-color: lightBlue;
    height:50px;
@@ -6,7 +6,7 @@
    cursor:pointer;
 }
 
-.butt:hover {
+.option_button:hover {
    background-color: blue;
    color:white;
 }
